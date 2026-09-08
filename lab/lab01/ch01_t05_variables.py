@@ -1,1 +1,1 @@
-greeting_message="Welcome to "
+greeting_message="Welcome to Codecademy"
