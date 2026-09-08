@@ -1,2 +1,2 @@
 print (greeting_message = "hello world!")
-print(current_exc)
+print(current_excer)
