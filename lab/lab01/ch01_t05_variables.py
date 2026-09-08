@@ -1,1 +1,1 @@
-greeting_message 
+print (greeting_message 
