@@ -1,1 +1,1 @@
-greeting_message="welcome to "
+greeting_message="Welcome to "
