@@ -1,2 +1,2 @@
-#print(greeting_message="Welcome to Codecademy!")
-#print(current_excercise=5)
+print(greeting_message="Welcome to Codecademy!")
+print(current_excercise=5)
