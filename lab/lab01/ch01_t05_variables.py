@@ -1,2 +1,2 @@
 print (greeting_message = "hello world!")
-print(current_excer)
+print(current_excercise)
