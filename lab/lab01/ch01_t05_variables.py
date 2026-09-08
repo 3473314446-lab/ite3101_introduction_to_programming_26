@@ -1,3 +1,3 @@
-(greeting_message = "Welcome to Codecademy!")
-(current_excerise = 5)
+(greeting_message = "Welcome to Codecademy!");
+(current_excerise = 5);
 
