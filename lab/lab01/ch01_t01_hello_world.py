@@ -1,1 +1,1 @@
-print("Hello world!")rtte
+print("Hello world!")
