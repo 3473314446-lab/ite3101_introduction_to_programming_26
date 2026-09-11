@@ -1,2 +1,2 @@
 int_cucumbers = 1
-float_
+float_price_per_cucumber = 3.25
