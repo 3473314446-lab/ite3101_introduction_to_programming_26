@@ -1,1 +1,1 @@
-haiku = 
+haiku = "The old pond, A forg jump in "
