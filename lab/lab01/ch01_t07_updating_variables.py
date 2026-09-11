@@ -1,2 +1,2 @@
 annual_rainfall = 10
-September = 
+September = 1
