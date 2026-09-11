@@ -1,2 +1,2 @@
-trippy_multiplication = 91 * 78
-happy_division = 1398 / 11
+product = 91 * 78
+remainder = 1398 / 11
