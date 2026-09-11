@@ -1,1 +1,1 @@
-today_data
+today_data = '2026-'
