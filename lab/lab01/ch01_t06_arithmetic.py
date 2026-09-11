@@ -1,1 +1,1 @@
-trippy_multiplication = 
+trippy_multiplication = 91 * 78
