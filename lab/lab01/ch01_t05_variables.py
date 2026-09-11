@@ -1,1 +1,1 @@
-today_data = '2026-9-1'
+today_date = '2026-9-1'
