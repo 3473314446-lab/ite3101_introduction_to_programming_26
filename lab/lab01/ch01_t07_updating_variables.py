@@ -1,5 +1,5 @@
 annual_rainfall = 10
 September = 1.5
 October = 3
-November = 3
-December = 2.5
+november = 3
+december = 2.5
