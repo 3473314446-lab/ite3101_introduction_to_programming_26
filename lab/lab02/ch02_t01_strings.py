@@ -1,2 +1,2 @@
-name = "brain"
+brain = "Hello life"
 
