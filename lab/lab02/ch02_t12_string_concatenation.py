@@ -1,2 +1,2 @@
 # Print the concatenation of "Spam and eggs" on line 3!
-peint(" "Spam" + "and" + "eggs"  ")
+peint(""Spam" + "and" + "eggs"")
