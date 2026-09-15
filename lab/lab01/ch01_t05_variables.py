@@ -1,1 +1,1 @@
-todays_date = 20260915
+todays_date = 202609
