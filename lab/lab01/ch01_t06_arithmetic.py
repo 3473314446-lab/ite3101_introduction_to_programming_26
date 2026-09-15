@@ -1,2 +1,2 @@
-product = 91 * 78
+product = 6*7
 remainder = 1398 / 11
