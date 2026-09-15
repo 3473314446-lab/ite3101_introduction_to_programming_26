@@ -1,1 +1,2 @@
-parrot = ""
+parrot = "Norwegian Blue"
+len(parrot)
