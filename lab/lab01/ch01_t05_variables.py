@@ -1,3 +1,3 @@
-greeting_message = "Welcome to Coodecademy"
+greeting_message = "Welcome to Coodecademy!"
 current_excercise = 5
 todays_date = 20261509
