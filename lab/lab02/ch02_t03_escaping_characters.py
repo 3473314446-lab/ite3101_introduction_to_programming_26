@@ -1,1 +1,1 @@
-escaping_characters = 'There\'s a snake in my boot!'
+'There\'s a snake in my boot!'
