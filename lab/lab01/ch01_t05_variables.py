@@ -1,1 +1,1 @@
-greeting_message = “welcome to Ctodays_date = 20261509
+greeting_message = “Welcome to Ctodays_date = 20261509
