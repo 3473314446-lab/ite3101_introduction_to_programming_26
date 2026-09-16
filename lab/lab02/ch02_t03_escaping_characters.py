@@ -1,1 +1,1 @@
-'There\'s a snake in my boot!'
+mj = 'There\'s a snake in my boot!'
