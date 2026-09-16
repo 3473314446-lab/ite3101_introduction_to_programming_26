@@ -1,3 +1,3 @@
 UPPER_CASE = "Welcome to Coodecademy!"
-current_excercise = 5
+UPPER_CASE = 5
 todays_date = 20261509
