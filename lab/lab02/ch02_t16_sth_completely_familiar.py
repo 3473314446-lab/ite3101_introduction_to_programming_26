@@ -1,4 +1,5 @@
 # Write your code below, starting on line 3!
 
 my_string = abcd
-print("my_string")
+print("my_string".len())
+print("my_string".upper())
