@@ -1,5 +1,5 @@
 # Write your code below, starting on line 3!
 
-my_string = nihao
+my_string = Chis
 print("my_string".len())
 print("my_string".upper())
