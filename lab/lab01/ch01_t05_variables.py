@@ -1,2 +1,2 @@
-todays_date = 18-9-2026
+todays_date = 18092026
 print(todays_date)
