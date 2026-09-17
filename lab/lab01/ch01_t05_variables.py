@@ -1,2 +1,2 @@
-todays_date = 20260916
+todays_date = 2026-
 print(todays_date)
