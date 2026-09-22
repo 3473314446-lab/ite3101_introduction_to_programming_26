@@ -1,7 +1,7 @@
 # Use boolean expressions as appropriate on the lines below!
 
 # Make me false!
-bool_one = bool_one = (2 <= 2) and "Alpha" == "Bravo"
+bool_one = (2 <= 2) and "Alpha" == "Bravo"
 
 # Make me true!
 bool_two = 
