@@ -1,1 +1,1 @@
-print = ("Pig Latin")
+print = ("igP
