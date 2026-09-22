@@ -1,1 +1,1 @@
-print = "ig Latinay"
+print = ("")
