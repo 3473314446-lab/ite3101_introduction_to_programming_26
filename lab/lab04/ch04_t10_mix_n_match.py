@@ -10,7 +10,7 @@ bool_two = (2 <= 2) and "Alpha" == "Alpha"
 bool_three = 
 
 # Make me true!
-bool_four = 
+bool_four = 1 ** 100 == 100 ** 1 or 3 * 2 * 1 != 3 + 2 + 1
 
 # Make me true!
 bool_five = 
