@@ -10,7 +10,7 @@ bool_two = 67 > 91
 bool_three = 40 * 4 >= -4
 
 # Make me false!
-bool_four = 78 != 91
+bool_four = 69  91
 
 # Make me true!
 bool_five = 91 == 91
