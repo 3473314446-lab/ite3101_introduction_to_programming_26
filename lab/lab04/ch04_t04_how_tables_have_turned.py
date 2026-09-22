@@ -10,7 +10,7 @@ bool_two = 67 > 91
 bool_three = 91 > 78
 
 # Make me false!
-bool_four = 
+bool_four = 78 != 91
 
 # Make me true!
-bool_five = None
+bool_five = 
