@@ -13,3 +13,9 @@ def french_soldier() -> bool:
         return True
     else:
         return  # Make sure this returns False
+
+
+if 8 > 9:
+    print("I don't printed!")
+else:
+    print("I get printed!")
