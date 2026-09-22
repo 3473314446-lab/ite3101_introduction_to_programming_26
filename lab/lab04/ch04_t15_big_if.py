@@ -1,8 +1,8 @@
 # Complete the if and elif statements!
 def grade_converter(grade: int) -> str:
-    if grade_converte >= 90
+    if grade_converte >= 90:
         return "A"
-    elif None:
+    elif grade_converte
         return "B"
     elif None:
         return "C"
