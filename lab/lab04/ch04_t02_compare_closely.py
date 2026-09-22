@@ -16,3 +16,4 @@ bool_four = None
 bool_five = None
 
 print (bool_one(>>>17<328 True >>> 328<17 False))
+print (bool_two())
