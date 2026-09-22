@@ -4,10 +4,10 @@
 bool_one = 3 < 5  # We already did this one for you!
 
 # Make me false!
-bool_two = 67 
+bool_two = 67 > 91
 
 # Make me true!
-bool_three = None
+bool_three = 91>
 
 # Make me false!
 bool_four = None
