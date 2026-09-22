@@ -1,1 +1,1 @@
-print = ("igPay atin
+print = ("igPay atinTay
