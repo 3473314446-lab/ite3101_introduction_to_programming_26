@@ -7,7 +7,7 @@ bool_one = (2 <= 2) and "Alpha" == "Bravo"
 bool_two = (2 <= 2) and "Alpha" == "Alpha"
 
 # Make me false!
-bool_three = (2 <= 2) and "" == "Bravo"
+bool_three = (2 <= 2) and "Alexravo"
 
 # Make me true!
 bool_four = 1 ** 100 == 100 ** 1 or 3 * 2 * 1 != 3 + 2 + 1
