@@ -13,4 +13,4 @@ bool_three =
 bool_four = 1 ** 100 == 100 ** 1 or 3 * 2 * 1 != 3 + 2 + 1
 
 # Make me true!
-bool_five = 
+bool_five = not 3 ** 2 + 4 ** 2 != 5 ** 2
