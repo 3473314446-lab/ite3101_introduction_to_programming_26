@@ -4,7 +4,7 @@ def using_control_once() -> str:
 
 
 def using_control_again() -> str:
-    if e:
+    if T
         return "Success #2"
 
 
