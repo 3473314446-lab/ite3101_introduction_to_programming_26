@@ -15,4 +15,4 @@ bool_four = None
 # Set this to True if 99 != (98 + 1) or to False otherwise.
 bool_five = None
 
-print (())
+print (bool_one())
