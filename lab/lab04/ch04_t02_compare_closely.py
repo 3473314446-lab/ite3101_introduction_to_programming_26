@@ -18,5 +18,5 @@ bool_five = None
 print (bool_one >>> 17 < 328 True >>> 328 < 17 False);
 print (bool_two >>> 100 == ( (2 * 50)) True >>> 200 ==(2 * 50) False );
 print (bool_three >>> 19 <= 19 True >>> 18 <= 19 False);
-print (bool_four >>> 
+print (bool_four >>> -22 >= -18 True >>> -18 >= 
 bool_five
