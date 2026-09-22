@@ -7,10 +7,10 @@ bool_one = (2 <= 2) and "Alpha" == "Bravo"
 bool_two = 
 
 # Make me false!
-bool_three = None
+bool_three = 
 
 # Make me true!
-bool_four = None
+bool_four = 
 
 # Make me true!
-bool_five = None
+bool_five = 
