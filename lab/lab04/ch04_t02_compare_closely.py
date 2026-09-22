@@ -15,4 +15,4 @@ bool_four = None
 # Set this to True if 99 != (98 + 1) or to False otherwise.
 bool_five = None
 
-print (bool_one(>>>17<328 True >>> 328<17 F))
+print (bool_one(>>>17<328 True >>> 328<17 False))
