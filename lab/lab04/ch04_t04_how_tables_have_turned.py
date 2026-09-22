@@ -13,4 +13,4 @@ bool_three = 91 > 78
 bool_four = 78 != 91
 
 # Make me true!
-bool_five = 
+bool_five = 91 = 91
