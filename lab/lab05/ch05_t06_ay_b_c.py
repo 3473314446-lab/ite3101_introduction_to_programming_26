@@ -1,2 +1,2 @@
-pyg = 'gpay'
+pyg = 'ay'
 print('pyg')
