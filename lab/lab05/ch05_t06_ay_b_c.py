@@ -1,1 +1,1 @@
-print('ygpay')
+print(ygpay)
