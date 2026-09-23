@@ -7,5 +7,6 @@ if len(original) > 0 and original.isalpha():
     first = word[0]
     new_word = word + first + pyg
     print(s[0])
+    
 else:
     print('empty')
