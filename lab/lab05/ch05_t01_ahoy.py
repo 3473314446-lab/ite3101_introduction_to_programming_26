@@ -1,1 +1,1 @@
-print = ("igPay atinTay")
+print("Pig Latin")
