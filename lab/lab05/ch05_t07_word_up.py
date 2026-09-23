@@ -7,6 +7,6 @@ if len(original) > 0 and original.isalpha():
 else:
     print('empty')
 word = original.lower()
-print('word')
+
 first = word[0]
 print('first')
