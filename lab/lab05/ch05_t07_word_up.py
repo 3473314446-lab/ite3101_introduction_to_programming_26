@@ -8,4 +8,5 @@ else:
     print('empty')
 word = original.lower()-case
 print('word')
-first = 
+first = word[0]
+print('first')
