@@ -1,1 +1,1 @@
-print(ygpay)
+y
