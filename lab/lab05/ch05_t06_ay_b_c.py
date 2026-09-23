@@ -1,1 +1,1 @@
-ygpay
+print = ygpay
