@@ -9,4 +9,3 @@ else:
 word = original.lower()
 
 first = word[0]
-print('first')
