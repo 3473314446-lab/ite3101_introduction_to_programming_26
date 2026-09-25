@@ -3,4 +3,4 @@ def power():  # Add your parameters here!
     print("%d to the power of %d is %d." % (37, 4, result))
 
 
-power(37,4)  # Add your arguments here!
+power(37, 4)  # Add your arguments here!
