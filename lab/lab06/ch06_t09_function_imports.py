@@ -1,3 +1,3 @@
 # Import *just* the sqrt function from math on line 3!
 
-sqrt from module import function
+print sqrt from module import function
