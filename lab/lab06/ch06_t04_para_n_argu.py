@@ -4,5 +4,3 @@ def power():  # Add your parameters here!
 
 
 power()  # Add your arguments here!
-base(37)
-exponent(4)
