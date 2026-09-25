@@ -3,5 +3,5 @@
 # explain it soon!
 
 def spam():
-    """Print '"""
+    """Print 'Egg!'"""
 # Define the spam function above this line.
