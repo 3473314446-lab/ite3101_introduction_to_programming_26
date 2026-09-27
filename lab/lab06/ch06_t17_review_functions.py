@@ -5,4 +5,4 @@ if s=="yes"():
 elif s=="no"():
     return("Shutdown aborted")
 else:
-    shut_down("sorry")
+    return("sorry")
