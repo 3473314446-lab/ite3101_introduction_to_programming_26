@@ -1,2 +1,2 @@
 def shut_down(s:str)->str:
-    return 
+    return s
