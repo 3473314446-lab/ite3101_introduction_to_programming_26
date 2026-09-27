@@ -2,4 +2,4 @@
 # and a string on separate lines below.
 print(type(98))
 print(type(31))
-print(type)
+print(type('ojj'))
