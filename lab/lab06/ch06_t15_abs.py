@@ -1,3 +1,3 @@
-absolute = None
+absolute = 
 
 print(absolute)
