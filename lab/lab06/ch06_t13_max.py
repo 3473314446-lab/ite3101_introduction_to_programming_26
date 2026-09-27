@@ -1,5 +1,5 @@
 # Set maximum to the max value of any set of numbers on line 3!
 
-maximum = max() 123, 234, 534
+maximum = max(123, 234, 534)
 
 print(maximum)
