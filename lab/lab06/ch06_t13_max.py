@@ -3,4 +3,4 @@
 maximum = max(12, 23, 35)
 
 print(maximum)
-return
+return max(12, 23, 35)
