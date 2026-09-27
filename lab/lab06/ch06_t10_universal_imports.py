@@ -1,4 +1,4 @@
 # Import *everything* from the math module on line 3!
 
-import*math
-print(sqrt(25))
+import *math
+print(sqrt())
