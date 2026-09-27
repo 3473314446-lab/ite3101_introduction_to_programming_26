@@ -1,3 +1,4 @@
 def shut_down(s:str)->str:
     return s
-if yes
+if yes():
+    s()
