@@ -1,1 +1,1 @@
-print()
+print(sqrt(13689))
