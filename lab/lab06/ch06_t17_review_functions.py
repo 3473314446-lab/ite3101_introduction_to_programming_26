@@ -4,4 +4,5 @@ if yes():
     return ( "Shutting down")
 elif no():
      return ("Shutdown aborted")
-else
+else:
+    shut_down("sorry")
