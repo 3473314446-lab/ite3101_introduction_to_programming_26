@@ -2,4 +2,4 @@
 
 def maximum(number):
    return max(number)
-result = maximum(91,78,69)
+result = maximum((91,78,69))
