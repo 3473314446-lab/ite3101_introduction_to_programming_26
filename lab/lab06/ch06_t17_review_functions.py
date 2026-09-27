@@ -1,8 +1,8 @@
 def shut_down(s:str)->str:
     return s
 if yes():
-    return ( "Shutting down")
+    speak( "Shutting down")
 elif no():
-    sprak ("Shutdown aborted")
+    speak("Shutdown aborted")
 else:
     shut_down("sorry")
