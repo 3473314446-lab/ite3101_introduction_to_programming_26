@@ -1,4 +1,3 @@
 def distance_from_zero:
- print(type(69))
- print(type(2.3))
+ return (type(69))(type(2.3))
  
