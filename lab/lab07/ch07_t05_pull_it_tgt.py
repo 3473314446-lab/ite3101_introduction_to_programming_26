@@ -22,6 +22,3 @@ def rental_car_cost(days: int) -> int:
     return cost
 
 
-def double(n):
-    return n*2
-def tr
