@@ -34,4 +34,4 @@ def trip_cost(city: str, days: int, spending_money: int = 0) -> int:
 
 if trip_cost(600) == "Los Angeles":
     # Change below line
-    print("Los Angeles")
+    print("Los Angeles", 5, 600)
