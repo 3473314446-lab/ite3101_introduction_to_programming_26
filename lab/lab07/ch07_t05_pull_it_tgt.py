@@ -23,4 +23,4 @@ def rental_car_cost(days: int) -> int:
 
 def rental_car_cost(days):
     cost = 40*days
-    i
+    if 
