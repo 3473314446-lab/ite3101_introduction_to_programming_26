@@ -22,5 +22,5 @@ def rental_car_cost(days: int) -> int:
     return cost
 
 
-def trip_cost(city:str + days:int):
+def trip_cost(city:str + days:int)-> int:
     return 
