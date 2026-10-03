@@ -3,6 +3,5 @@ duck_index = ["aardvark", "badger", "duck", "emu", "fennec fox"] print(animals.i
 
 # Your code here!
 animals.insert(1,"cobra")
-print(animals)
 
 print(animals)  # Observe what prints after the insert operation
