@@ -10,7 +10,7 @@ zoo_animals = {'Unicorn': 'Cotton Candy House',
 del zoo_animals['Unicorn']
 
 # Your code here!
-del Sloth = ['Rainforest Exhibit']
-del Bengal Tiger = ['Jungle House']
+del 
+del 
 
 print(zoo_animals)
