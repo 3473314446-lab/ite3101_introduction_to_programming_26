@@ -10,6 +10,6 @@ menu['eggs'] = 4.5
 print(menu['eggs'])
 
 menu['pig god'] = 91
-print()
+print(menu['pig god'])
 print("There are " + str(len(menu)) + " items on the menu.")
 print(menu)
