@@ -6,6 +6,6 @@ print(menu['Chicken Alfredo'])
 menu['chicken wings'] = 15
 print(menu['chicken wings'])
 
-menu['eggs']
+menu['eggs'] = 4
 print("There are " + str(len(menu)) + " items on the menu.")
 print(menu)
