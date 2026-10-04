@@ -9,6 +9,7 @@ print(menu['chicken wings'])
 menu['eggs'] = 4.5
 print(menu['eggs'])
 
-menu['']
+menu['pig god'] = 91
+print()
 print("There are " + str(len(menu)) + " items on the menu.")
 print(menu)
