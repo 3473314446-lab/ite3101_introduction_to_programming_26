@@ -7,4 +7,4 @@ square_list.sort()
 # Your code here!
 
 
-print(square_list)s
+print(square_list)
