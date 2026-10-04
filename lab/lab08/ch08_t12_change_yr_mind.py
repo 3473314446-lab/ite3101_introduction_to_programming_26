@@ -11,6 +11,6 @@ del zoo_animals['Unicorn']
 
 # Your code here!
 del Sloth = ['Rainforest Exhibit']
-del zoo_animals = ['Bangal Tiger']
+del zoo_animals = ['Jungle House']
 
 print(zoo_animals)
