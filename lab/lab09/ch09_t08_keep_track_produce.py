@@ -11,4 +11,4 @@ stock = {
     "pear": 15,
 }
 
-prices = {"banana": 4, "apple"}
+prices = {"banana": 4, "apple": 2, "orange"}
