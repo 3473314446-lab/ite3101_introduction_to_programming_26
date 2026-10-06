@@ -1,5 +1,8 @@
 count = 0
 
-if count < 10:
+if count < 5:
     print("Hello, I am an if statement and count is", count)
-    count += 10
+
+while count < 5:
+    print("Hello, I am a while and count is", count)
+    count += 1
