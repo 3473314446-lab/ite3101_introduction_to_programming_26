@@ -4,3 +4,4 @@ def fizz_count(x:List[str]):
     for item in x:
         if item == 'fizz':
             count +=1
+    return count
