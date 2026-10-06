@@ -1,2 +1,2 @@
 # Write your function below!
-fizz_count
+def fizz_count
