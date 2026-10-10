@@ -10,11 +10,8 @@ stock = {
     "orange": 32,
     "pear": 15,
 }
-total = 0
-keys = ["banana","apple","orange","pear"]
-for key in keys:
-    value = prices[key] * stock[key]
-    print(value)
-    total = total + value
 
-print(total)
+for key in prices:
+    print(key)
+    print("price: %s" % prices[key])
+    print("stock: %s" % stock[key])
