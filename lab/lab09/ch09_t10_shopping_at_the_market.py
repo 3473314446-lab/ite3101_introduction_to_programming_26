@@ -1,2 +1,2 @@
-
+groceries = []
 print(groceries)
