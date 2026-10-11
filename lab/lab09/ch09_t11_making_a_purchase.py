@@ -1,4 +1,4 @@
-shopping_list = ["banana", "orange", "apple"]
+shopping_list = ["banana", "orange", "apple","pear"]
 
 stock = {
     "banana": 6,
