@@ -20,4 +20,4 @@ def compute_bill(food):
         total += food return total
 
 food = ['banana','orange','apple','paer']
-print(co)
+print(compute_bill(food))
