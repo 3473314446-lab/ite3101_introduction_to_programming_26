@@ -4,4 +4,4 @@ phrase = "A bird in the hand..."
 for A in phrase:
 
 # Don't delete this print statement!
-print(A, end=)
+print(A, end='')
