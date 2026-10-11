@@ -1,5 +1,5 @@
 hobbies = []
 
 # Add your code below!
-for hobbies in hobbies:
+for i in hobbies:
     print(hobbies)
