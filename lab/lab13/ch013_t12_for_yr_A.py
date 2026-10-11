@@ -8,3 +8,4 @@ for char in phrase:
 # Don't delete this print statement!
 else:
     print(char, end = "")
+print()
