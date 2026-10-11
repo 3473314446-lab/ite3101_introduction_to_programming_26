@@ -6,4 +6,5 @@ random_number = randint(1, 10)
 guesses_left = 3
 # Start your game!
 
-guesses_left -= 1
+guesses_left -= 1 else:
+  print("you lose.")
