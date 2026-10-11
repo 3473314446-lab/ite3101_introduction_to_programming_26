@@ -1,4 +1,4 @@
-hobbies = [play , music , cxy]
+hobbies = []
 
 # Add your code below!
 for hobbies in hobbies:
