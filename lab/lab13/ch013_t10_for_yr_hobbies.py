@@ -1,3 +1,3 @@
-hobbies = [abc, cba, bca]
+hobbies = []
 
 # Add your code below!
