@@ -1,5 +1,5 @@
 num = [0 , 1 , 2]
 for n in num:
-    print(n , end ="")
+    print(n , end ="\n")
 else:
     print("End")
