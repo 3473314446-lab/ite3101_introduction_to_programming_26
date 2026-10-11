@@ -6,4 +6,5 @@ for char in phrase:
         print("X", end="")
 
 # Don't delete this print statement!
-print()
+else:
+    print()
