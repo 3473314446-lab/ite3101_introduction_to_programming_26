@@ -10,7 +10,7 @@ while guesses_left > 0:
   if guess == random_number:
     print"("You win!") 
     break
-  guess
+  guesses_left 
 
 print(random_number) if num == 3
   print("You win!") break
