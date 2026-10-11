@@ -1,5 +1,5 @@
 hobbies = []
 
 # Add your code below!
-for i in hobbies:
-    print(hobbies)
+for i in range:
+    hobby = input("")
