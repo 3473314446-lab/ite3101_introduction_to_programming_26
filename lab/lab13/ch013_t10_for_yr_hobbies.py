@@ -1,3 +1,3 @@
-hobbies = [ojj,]
+hobbies = []
 
 # Add your code below!
