@@ -21,5 +21,5 @@ def compute_bill(food):
         total += prices[item]
         return total
 
-food = ['banana','orange','apple','paer']
+food = ['banana','orange','apple','pear']
 print(compute_bill(food))
