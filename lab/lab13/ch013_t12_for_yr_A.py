@@ -4,4 +4,4 @@ phrase = "A bird in the hand..."
 for a in phrase:
 
 # Don't delete this print statement!
-print()
+print(a)
