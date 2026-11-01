@@ -17,4 +17,16 @@ tyler = {
     "tests": [100.0, 100.0]
 }
 students = [lloyd, alice, tyler]
-print(students["name","homework","quizzes","test"])
+```
+for student in students:
+    print(student["name"])
+    print(student["homework"])
+    print(student["quizzes"])
+    print(student["tests"])
+```
+
+ 如何修改代码中的语法错误？
+
+ 除了上述错误，还有哪些常见的Python语法错误？
+
+ 如何避免在Python编程中出现键名错误？
