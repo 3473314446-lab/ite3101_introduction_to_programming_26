@@ -17,4 +17,4 @@ tyler = {
     "tests": [100.0, 100.0]
 }
 students = [lloyd, alice, tyler]
-print(students ["name","homework","quizzes","test"])
+print(students["name","homework","quizzes","test"])
