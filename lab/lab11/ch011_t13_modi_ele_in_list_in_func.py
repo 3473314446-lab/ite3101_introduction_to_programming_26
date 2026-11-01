@@ -1,14 +1,7 @@
-from typing import List
+n = [3, 5, 7]
 
-
-def my_function(x: range) -> List[int]:
-    result = []
-    for item in x:
-        result.append(item * 2)
-    return result
-
+for i in range(0, len(n)):
+    n[i] = n[i] * 2
 # Don't forget to return your new list!
 
 # print(double_list(n))
-print(double_list(n))
-
