@@ -8,3 +8,4 @@ def flatten(lists):
     return results
 
 # print(flatten(n))
+print(flatten(n))
