@@ -1,9 +1,10 @@
-n = [3, 5, 7]
+from typing import List
 
-def double_list(x):
+
+def my_function(x: range) -> List[int]:
     result = []
-    for item in x:
-        result.append(item * 2)
+    for i in range(0, len(x)):
+        result.append(x[i])
     return result
 
 # Don't forget to return your new list!
