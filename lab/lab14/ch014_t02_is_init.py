@@ -1,1 +1,2 @@
-def is_int(x:float)
+def is_int(x:float)->bool:
+    
