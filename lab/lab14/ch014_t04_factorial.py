@@ -1,1 +1,1 @@
-def fac
+def fact
