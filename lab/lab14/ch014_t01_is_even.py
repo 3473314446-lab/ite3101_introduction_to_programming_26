@@ -1,4 +1,2 @@
-def is_even(x):
-    if x return True
-else:
-    return Flase
+def is_even(x: int) -> int:
+    return x % 2 == 0
