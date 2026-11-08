@@ -9,7 +9,7 @@ def censor(text, word):
         # 检查当前位置开始的子串是否匹配目标词
         if index + word_length <= text_length and text[index:index+word_length] == word:
             result += stars
-            index += word_length  # 跳过整个已匹配的单词
+            index += word_length  
         else:
             result += text[index]
             index += 1
