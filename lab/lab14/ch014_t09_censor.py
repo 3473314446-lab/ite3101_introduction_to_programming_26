@@ -6,7 +6,6 @@ def censor(text, word):
     index = 0
 
     while index < text_length:
-        # 检查当前位置开始的子串是否匹配目标词
         if index + word_length <= text_length and text[index:index+word_length] == word:
             result += stars
             index += word_length  
