@@ -1,17 +1,18 @@
 def censor(text, word):
-    word_len = len(word)
-    text_len = len(text)
-    mask = "*" * word_len
+    word_length = len(word)
+    text_length = len(text)
+    stars = "*" * word_length
     result = ""
-    i = 0
-    
-    while i < text_len:
-        if i + word_len <= text_len and text[i:i+word_len] == word:
-            result += mask
-            i += word_len 
+    index = 0
+
+    while index < text_length:
+        # 检查当前位置开始的子串是否匹配目标词
+        if index + word_length <= text_length and text[index:index+word_length] == word:
+            result += stars
+            index += word_length  # 跳过整个已匹配的单词
         else:
-            result += text[i]
-            i += 1
+            result += text[index]
+            index += 1
     
     return result
 
