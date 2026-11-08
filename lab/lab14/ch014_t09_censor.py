@@ -1,12 +1,17 @@
 def censor(text, word):
-    words = text.split(" ")
-    mask = "*" * len(word)
-    result = []
+    word_len = len(word)
+    text_len = len(text)
+    mask = "*" * word_len
+    result = ""
+    i = 0
     
-    for w in words:
-        if w == word:
-            result.append(mask)
+    while i < text_len:
+        if i + word_len <= text_len and text[i:i+word_len] == word:
+            result += mask
+            i += word_len 
         else:
-            result.append(w)
+            result += text[i]
+            i += 1
     
-    return " ".join(result)
+    return result
+
