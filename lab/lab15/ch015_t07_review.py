@@ -39,3 +39,16 @@ def grades_variance(scores: List[float]) -> float:
 
 def grades_std_deviation(variance: float) -> float:
     return variance ** 0.5
+
+
+# ========== Task 7: 打印所有统计结果 ==========
+print("=== All Grades ===")
+print_grades(grades)
+
+print("\n=== Exam Statistics ===")
+print(f"Sum of grades: {grades_sum(grades)}")
+print(f"Average grade: {grades_average(grades)}")
+
+variance_result = grades_variance(grades)
+print(f"Variance: {variance_result}")
+print(f"Standard deviation: {grades_std_deviation(variance_result)}")
