@@ -4,7 +4,6 @@ my_dict = {
     "BDFL": True
 }
 
-# 遍历字典，每组键值打印在同一行，组之间用空格分隔
+# 用 in 遍历字典的每个键，逐个打印键和对应的值，所有内容保持在同一行
 for key in my_dict:
     print(key, my_dict[key], end=" ")
-
