@@ -26,3 +26,20 @@ def grades_average(grades_input: List[float]) -> float:
     sum_of_grades = grades_sum(grades_input)
     average = sum_of_grades / float(len(grades_input))
     return average
+
+
+# Task 5：计算方差的函数
+def grades_variance(scores: List[float]) -> float:
+    # 步骤1：调用已有函数计算平均分
+    average = grades_average(scores)
+    # 步骤2：初始化方差累加器为0
+    variance = 0
+    # 步骤3：遍历每个分数，累加「与均值差的平方」
+    for score in scores:
+        variance += (average - score) ** 2
+    # 步骤4：总平方和除以分数数量，得到总体方差
+    variance = variance / len(scores)
+    return variance
+
+
+print(grades_variance(grades))
