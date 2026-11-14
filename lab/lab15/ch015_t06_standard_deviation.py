@@ -35,3 +35,15 @@ def grades_variance(scores: List[float]) -> float:
     for score in scores:
         variance += (average - score) ** 2
     return variance / len(scores)
+
+
+# Task 6：计算标准差的函数
+def grades_std_deviation(variance: float) -> float:
+    # 按题目要求：返回方差的 0.5 次方（即平方根）
+    return variance ** 0.5
+
+
+# 步骤1：调用方差函数，将结果存入 variance 变量
+variance = grades_variance(grades)
+# 步骤2：调用标准差函数并打印结果
+print(grades_std_deviation(variance))
