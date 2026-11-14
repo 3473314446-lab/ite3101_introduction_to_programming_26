@@ -15,11 +15,8 @@ def grades_sum(scores: List[float]) -> float:
     return sum
 
 
-# Task 4 新增的平均分函数
 def grades_average(grades_input: List[float]) -> float:
-    # 调用已有的 grades_sum 计算总分
     total_score = grades_sum(grades_input)
-
     average = total_score / float(len(grades_input))
     return average
 
