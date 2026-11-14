@@ -41,20 +41,14 @@ def grades_std_deviation(variance: float) -> float:
     return variance ** 0.5
 
 
-# ========== Task 7 输出部分 ==========
-# 1. 打印所有成绩
 print_grades(grades)
 
-# 2. 打印总分
 print(grades_sum(grades))
 
-# 3. 打印平均分
 print(grades_average(grades))
 
-# 4. 打印方差
 variance = grades_variance(grades)
 print(variance)
 
-# 5. 打印标准差
 print(grades_std_deviation(variance))
 
