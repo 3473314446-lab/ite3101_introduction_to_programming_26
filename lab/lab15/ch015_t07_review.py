@@ -41,7 +41,6 @@ def grades_std_deviation(variance: float) -> float:
     return variance ** 0.5
 
 
-# ========== Task 7: 打印所有统计结果 ==========
 print("=== All Grades ===")
 print_grades(grades)
 
